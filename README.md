@@ -1,3 +1,3 @@
 # Manual-openbox-tiling
 
-Documentation and Description are on progress
+Documentation and Descriptions are on progress
